@@ -1,8 +1,8 @@
 {% extends '//die/std/ix.sh' %}
 
 {% block fetch %}
-https://git.kernel.org/pub/scm/linux/kernel/git/firmware/linux-firmware.git/snapshot/linux-firmware-20220209.tar.gz
-sha:1ff936dc3946affa2695f31024b22e117b3faf9aa7b8857aba1d0473cd277897
+https://git.kernel.org/pub/scm/linux/kernel/git/firmware/linux-firmware.git/snapshot/linux-firmware-20230919.tar.gz
+sha:1dac602218f83f2c81dd72e599ae6c926901b3d36babccce46cd84293a37e473
 {% endblock %}
 
 {% block skip_dirs %}0{% endblock %}
